@@ -1,0 +1,1 @@
+A Flask-based backend application built with Python. This project is used to practice API development, database management, and application configuration.
